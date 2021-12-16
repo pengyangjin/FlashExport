@@ -1,7 +1,7 @@
 /********************************************************************************
  * Name: flash-export
- * Description: exports one PNG image per frame in each flash file in a directory
- * Author: Jason R Brubaker
+ * Description: exportToPNGSequence
+ * Author: yangjin1
  * License: MIT
  ********************************************************************************/
  
